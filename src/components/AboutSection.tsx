@@ -189,7 +189,7 @@ export default function AboutSection({
                 </div>
                 <div className="flex items-center gap-2">
                   <CheckCircle2 className="w-4 h-4 text-[#3ddbb0]" />
-                  <span>₹1,50,000+ Prize Pool</span>
+                  <span>₹30,000 Prize Pool</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <CheckCircle2 className="w-4 h-4 text-[#3ddbb0]" />
@@ -217,10 +217,10 @@ export default function AboutSection({
                 COMBINED PRIZE VAULT
               </span>
               <div className="text-3xl sm:text-4xl font-extrabold font-mono text-[#e8eef4] mb-2">
-                ₹1,50,000+
+                ₹30,000
               </div>
               <p className="text-xs text-[#93a8bd]">
-                Cash rewards, incubation grants, professional modeling portfolios, and Bloomberg/TradingView terminal access licenses.
+                Cash prizes and rewards for VentureCraft 2K26 participants.
               </p>
             </div>
 

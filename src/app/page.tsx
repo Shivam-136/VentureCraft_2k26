@@ -8,6 +8,7 @@ import TickerBar from "@/components/TickerBar";
 import EventsSection from "@/components/EventsSection";
 import HighlightsSection from "@/components/HighlightsSection";
 import AboutSection from "@/components/AboutSection";
+import SponsorsSection from "@/components/SponsorsSection";
 import Footer from "@/components/Footer";
 import RegistrationModal from "@/components/RegistrationModal";
 import EventsModal from "@/components/EventsModal";
@@ -58,7 +59,10 @@ export default function Home() {
       {/* 6. About Us Section (Animated Counters: 3 events, 1 stage, 2026) */}
       <AboutSection onOpenRegister={() => handleOpenRegister()} />
 
-      {/* 7. Contact Section & Big-Logo Footer */}
+      {/* 7. Sponsors Section (Official Sponsors: Pizza Hut & Arun Icecreams) */}
+      <SponsorsSection />
+
+      {/* 8. Contact Section & Big-Logo Footer */}
       <Footer
         onOpenRegister={() => handleOpenRegister()}
         onOpenEvents={handleOpenEvents}

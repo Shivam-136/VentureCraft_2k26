@@ -230,13 +230,13 @@ export default function Hero({ onOpenRegister, onOpenEvents }: HeroProps) {
             <span className="mx-6 text-[#3ddbb0]">★ WALL STREET SIMULATIONS</span>
             <span className="mx-6 text-[#ff6b57]">★ CORPORATE COUTURE RAMP WALK</span>
             <span className="mx-6">★ VENTURECRAFT 2026</span>
-            <span className="mx-6 text-[#93a8bd]">★ ₹1,50,000+ CASH PRIZES</span>
+            <span className="mx-6 text-[#93a8bd]">★ ₹30,000 CASH PRIZES</span>
             <span className="mx-6">★ WELCOME TO VENTUREVERSE</span>
             <span className="mx-6 text-[#93a8bd]">★ PITCH TO REAL VCs</span>
             <span className="mx-6 text-[#3ddbb0]">★ WALL STREET SIMULATIONS</span>
             <span className="mx-6 text-[#ff6b57]">★ CORPORATE COUTURE RAMP WALK</span>
             <span className="mx-6">★ VENTURECRAFT 2026</span>
-            <span className="mx-6 text-[#93a8bd]">★ ₹1,50,000+ CASH PRIZES</span>
+            <span className="mx-6 text-[#93a8bd]">★ ₹30,000 CASH PRIZES</span>
           </div>
         </div>
 

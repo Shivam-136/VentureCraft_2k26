@@ -10,7 +10,7 @@ export default function TickerBar() {
     { symbol: "$MUDRA", price: "₹3,410.20", change: "+18.4%", isUp: true },
     { symbol: "ANGEL_INDEX", price: "4,920.80", change: "+6.1%", isUp: true },
     { symbol: "RUNWAY_YIELD", price: "100.0%", change: "+0.0%", isUp: true },
-    { symbol: "SEED_CAPITAL", price: "₹1,50,000", change: "+25.0%", isUp: true },
+    { symbol: "SEED_CAPITAL", price: "₹30,000", change: "+25.0%", isUp: true },
     { symbol: "S&P_VENTURE", price: "5,820.40", change: "+4.3%", isUp: true },
     { symbol: "COUTURE_RATIO", price: "9.85", change: "+12.1%", isUp: true },
   ]);
